@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73fdb52f-ff6e-4aa6-82a0-859360feb8a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion/SubSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/SubSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/SubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/SubSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,11 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="recursion" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="recursion.SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.SubSequence" />
@@ -65,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655129516008</updated>
-      <workItem from="1655129517832" duration="661000" />
+      <workItem from="1655129517832" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="commited on 13-6-22 19:43">
       <created>1655129791306</created>
@@ -88,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655129949666</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commited on 13-6-22">
+      <created>1655130189074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655130189074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
