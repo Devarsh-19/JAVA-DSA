@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="73fdb52f-ff6e-4aa6-82a0-859360feb8a1" name="Changes" comment="" />
+    <list default="true" id="73fdb52f-ff6e-4aa6-82a0-859360feb8a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/recursion/SubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/SubSequence.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +37,26 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="recursion.SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.SubSequence" />
+      <module name="JAVA-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.recursion.SubSequence" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655129516008</updated>
-      <workItem from="1655129517832" duration="317000" />
+      <workItem from="1655129517832" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="commited on 13-6-22 19:43">
       <created>1655129791306</created>
@@ -47,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655129791306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commited on 13-6-22 19:43">
+      <created>1655129846619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655129846619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commited on 13-6-22">
+      <created>1655129949666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655129949666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,7 +100,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Default" />
     <MESSAGE value="commited on 13-6-22 19:43" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited on 13-6-22 19:43" />
+    <MESSAGE value="commited on 13-6-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited on 13-6-22" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
